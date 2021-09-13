@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LegalDesigner
 - 👀 I’m interested in ...Frontend Development 
-- 🌱 I’m currently learning ...KodeCamp internship program,  have learnt at zuri and Visiola foundation Cooding Boot camp 
-- 💞️ I’m looking to collaborate on ...expert in this field 
+- 🌱 I’m currently learning ...@KodeCamp internship program,  have learnt at zuri and Visiola foundation Coding Boot camp 
+- 💞️ I’m looking to collaborate with ...experts in this field 
 - 📫 How to reach me ...hafsohomotosho@gmail.com 
 
 <!---
